@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoTecnica_Navita", "AvaliacaoTecnica_Navita\AvaliacaoTecnica_Navita.csproj", "{7C29A506-4146-49D2-86EC-70999C5A3224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoTecnica_NavitaTeste", "AvaliacaoTecnica_NavitaTeste\AvaliacaoTecnica_NavitaTeste.csproj", "{C5504EFC-6BC8-4E9A-B431-B644A46A2382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C29A506-4146-49D2-86EC-70999C5A3224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C29A506-4146-49D2-86EC-70999C5A3224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C29A506-4146-49D2-86EC-70999C5A3224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C29A506-4146-49D2-86EC-70999C5A3224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5504EFC-6BC8-4E9A-B431-B644A46A2382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5504EFC-6BC8-4E9A-B431-B644A46A2382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5504EFC-6BC8-4E9A-B431-B644A46A2382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5504EFC-6BC8-4E9A-B431-B644A46A2382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0CBD896-E4AE-432A-BE07-228C4B790762}
+	EndGlobalSection
+EndGlobal
